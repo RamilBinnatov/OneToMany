@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EntityFramework",
+    "\\EntityFramework\\EntityFramework",
+    "\\EntityFramework\\EntityFramework\\Views",
+    "\\EntityFramework\\EntityFramework\\Views\\Home"
+  ],
+  "SelectedNode": "\\EntityFramework\\EntityFramework\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
